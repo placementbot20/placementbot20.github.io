@@ -152,7 +152,7 @@
         </table>
 
         <br>
-        <p class="copyright" v-if="answers.length > 0">Proudly powered by <a href="https://ushakov.co">Ushakov</a> & <a href="https://dialogflow.com">Dialogflow</a></p>
+        <p class="copyright" v-if="answers.length > 0">Proudly powered by  <a href="https://jayesh1302.github.io" target="_blank">Jayesh Kumar</a> & <a href="https://dialogflow.com" target="_blank">Dialogflow</a> </p>
         <a id="bottom"></a>
     </section>
 </main>
